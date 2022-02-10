@@ -5,8 +5,7 @@
 
 ![](GHLogoTMP.png)
 
-### Hola colegas 👋
-
+### Holi uwu
 
 Gusto de visitar el perfil del docente 👨‍🏫 ✨ René Solis ✨.
 
@@ -35,13 +34,12 @@ Inventario maker para cursos
 
 
 
-Ejemplo Tablas en MD
+Lenguajes de Interfaz
 
-| Sensores 	|  X 	|  Y  	|
-|----------	|:--:	|:---:	|
-| Co2      	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
+|          | Lunes | Martes | Miercoles | Jueves |
+|:--------:|:-----:|:------:|:---------:|:------:|
+| Entrada: | 14:00 |  14:00 |   14:00   |  14:00 |
+|  Salida: | 15:00 |  15:00 |   15:00   |  15:00 |
 
 Guias:
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
