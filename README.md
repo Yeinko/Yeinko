@@ -22,11 +22,3 @@ Horario de la materia: Lenguajes de Interfaz
 |:--------:|:-----:|:------:|:---------:|:------:|
 | Entrada: | 14:00 |  14:00 |   14:00   |  14:00 |
 |  Salida: | 15:00 |  15:00 |   15:00   |  15:00 |
-
-Guias:
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-
-PARA CREAR TABLAS
-Cooltext.com
-
-https://www.tablesgenerator.com/markdown_tables. 
